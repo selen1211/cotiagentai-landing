@@ -51565,7 +51565,7 @@ const v$ = new s$({ uri: c8, cache: new Kq() }),
           value: t === void 0 ? "LP Burned" : `${s0(t, 0)} (${r.toFixed(2)}%)`,
         },
         { title: "Buy/Sell Tax", value: a === void 0 ? "0%" : s0(a, 0) },
-        { title: "Ownership", value: e === void 0 ? "Renounced" : `$${s0(e, 0)}` },
+        { title: "Ownership", value: a === void 0 ? "Renounced" : s0(a, 0) },
       ];
     return R.jsxDEV(
       "div",
