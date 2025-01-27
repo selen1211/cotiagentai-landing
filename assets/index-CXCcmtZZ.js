@@ -21385,9 +21385,9 @@ const Gt = (t) => {
     ["path", { d: "m6 6 12 12", key: "d8bk6v" }],
   ]),
   Ww = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
-  Yw = "https://swap.cotiagents.ai/",
-  s8 = "https://staking.cotiagents.ai/",
-  l8 = "https://cotiagents.gitbook.io",
+  Yw = "https://swap.cotiagentsai.xyz/",
+  s8 = "https://staking.cotiagentsai.xyz/",
+  l8 = "https://docs.cotiagentsai.xyz/",
   Of = "0x0000000000000000000000000000000000000000",
   u8 =
     "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
@@ -26198,9 +26198,9 @@ const f4 = (t, e) => `${t.slice(0, 4)}...${t.slice(t.length - 4)}`,
     ),
   W4 =
     "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAACXBIWXMAACxLAAAsSwGlPZapAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASzSURBVHgB7Z3hceM4DEbhDlKCSkgJ3g7Sgd3B5SqIOnCugqSDLcHXwV4HTAd3HbyTxuuZTCYJCRAWSYlvRpM/DgTRFD+YIEGRTqfT6XQ6nU0CPFOGszTE5O/ddP3CRpj//xaGc3mSRph8/YmNMF1DzPgwXf9Shr1UzuTjEzbmNh1Sb3KkDCHZyQJgb/yZB+3Nuh68Y/LrgJ1RLFBOD05SEZM/99iH5VGs0PXg2gYBG8+Sy9wQlCFdtG4EeY3/S5TsvnFknP6khol/Tdc/kc/MtgaJ8/dut/shBeASq896dC963qbrx+T7m3gxOXRO/OajPZfLmJpKET2Y7vuCjcAt3lx0r2P09Zs+80g6uhAuE5aI9Y2OafQg2nNJ/0W5mB6wZKxvdFDTcw8RW/PUR0i0pRY1w7M9YGeUpcCx51KJHlAq1jc6q+m58+fuIvaK6gF54earlADnnkshPWDhWN8VdD33MWKriB6QN68/SGkmJ14THZ577n3ElmYcztYDaov1LVBWDw5Gt3Njfcuv49uBbtLuZ4I9zVs1iBLyYv2j1AgF9YDIW/XBdhuxvgV0SZx9xJa7HpA3vT5K7aBL6gcW1ANajPUtoOtl0fQjDnpAZqyPYoirAnTj7FPEVrYe0HqsbwFfPdC8VacP/3vCRqDVxr+CbxJHHWWRF27WFetbwF8PUt+q+Z5P2DnKWsAxiYNOD6yMsjbmh1I0wEPEVk4sH2OUtUI5PUglOkXSNDhPL+C7dDLQWqxvAX898Fg6GWg93NSA76Rdrh6ETTX+FXyT+kfstB/rW8A/iWPRg0fZMuimm18itrR6MEqnqB68SOcCuuEjltTX6MG2h6ArlNOD+pLrpcA/qe+WldsMOA4fdD2wgW8SR5OV63pwBd3wMURsuQn8ZsA/idP1QAu6SbtYUt9V4DcDvnqg+UK7HlwhffhImbTreqABfVI9ZWfmOdFWYMt6MD38H9iIJXFcBX6VkF8a4eBof1t6gM+KB2892MsWIG8B7UdSkvrnRFuBtesBt1lwlaIHIdHWuvWA9N6oJTZp1/UA++rlFFJ2Zo4Ke3tZE+QtoA2Kz3nqwSBrAHusPzPnkt3m/NmaHqArc/CR8Z0dz6S+2wRg1ZAX6z9/Ys8zqb9uPSAv1j9/YdN7Z+ZZYWuQViAv1g/fNRyOczxKP9vRA25Z8Frcd2auSw9YqAgevkkcjcDvpVZYuAgejmM4jrt6ikBmrC8G6HpwAadY33hvzRh+WsrWYlC64LW478xsRw+oqAgevjszqysy+5mTuYfbDOIIjjsztbakBNw41jf65KkH9RYdp9aC1+Je+Km+ouPUXvBa3Hdm1qMHlDjcxuan204catEDCsb6Gf56JXEWLTL7mQPFY32j355JnDJ6QMsFr8V3Ix83LjL72Q2rivUzniEofHbTg+9s7SQBLmPjUfS8iffJQhn87gjz25iy6u2/39dX3EmanZnnqQ3+FAusqeC1ZBf6yEFfdJwGYn0LlDkzU6cHrLngtah24niSVpGXlg63MUK5MzNPKY4FbLxKQ1DuzMzDVw5lxfo0uKaemvSALRa8FlUSx5PA+w7LGg63MYLvTh0NVR1i3el0Nsf/YzD8UWbD1K8AAAAASUVORK5CYII=",
-  Jw = "https://x.com/",
-  Ff = "https://t.me/",
-  Y4 = "https://cotiagents.ai",
+  Jw = "https://x.com/cotiagent_ai",
+  Ff = "https://t.me/cotiagent_ai",
+  Y4 = "https://www.cotiagentsai.xyz",
   vD = ({ size: t = 24 }) =>
     R.jsxDEV(
       "a",
